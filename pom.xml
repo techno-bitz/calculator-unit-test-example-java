@@ -21,12 +21,12 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:https://github.com/stokito/calculator-unit-test-example-java.git</connection>
-        <url>https://github.com/stokito/calculator-unit-test-example-java</url>
+        <connection>scm:git:https://github.com/techno-bitz/calculator-unit-test-example-java.git</connection>
+        <url>https://github.com/techno-bitz/calculator-unit-test-example-java.git</url>
     </scm>
 
     <issueManagement>
-        <url>https://github.com/stokito/calculator-unit-test-example-java/issues</url>
+        <url>https://github.com/techno-bitz/calculator-unit-test-example-java/issues</url>
     </issueManagement>
 
     <developers>
