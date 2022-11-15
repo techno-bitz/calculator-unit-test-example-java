@@ -37,8 +37,8 @@
             <url>http://stokito.name</url>
             <timezone>+2</timezone>
             <properties>
-               <maven.compiler.source>1.6</maven.compiler.source>
-              <maven.compiler.target>1.6</maven.compiler.target>  
+              <gtalk>stokito@gmail.com</gtalk>
+                <skype>stokito</skype>        
             </properties>
         </developer>
     </developers>
