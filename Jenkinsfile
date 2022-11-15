@@ -12,7 +12,7 @@ pipeline {
                     sh 'mvn clean compile'
                        
         }
-
+		}
         stage ('Testing Stage') {
 
             steps {
@@ -28,4 +28,4 @@ pipeline {
         }
     }
 }
-}
+
